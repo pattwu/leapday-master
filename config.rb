@@ -6,6 +6,7 @@ css_dir = "stylesheets"
 sass_dir = "stylesheets"
 images_dir = "images"
 javascripts_dir = "javascripts"
+url: http://pattwu.github.io/leapday-master
 
 output_style = :expanded
 environment = :production
